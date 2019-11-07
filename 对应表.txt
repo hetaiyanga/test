@@ -1,0 +1,96 @@
+DEV_feature1 :
+     Jar项目：
+         编号                   应用                                                对应数据表
+           1             ehealth-opexport                                         无     
+           2             ehealth-appointsour                       eh_appoint_source_feature1
+           3             ehealth-ssdev-logs                         rpcstatlog_devtest
+           4             ehealth-cdr-modules                      eh_cdr_feature1
+           5             ehealth-bodycheck                         eh_bodycheck_feature1
+           6             ehealth-networkclinic                     eh_networkclinic_devtest
+           7             ehealth-valueadded                        eh_valueadded_feature1
+           8             ehealth-shadow                              不确定
+           9             ehealth-weixin-serv                         eh_base_feature1
+          10            ehealth-broadcast                           查询无结果
+          11            ehealth-miscellany                          eh_miscellany_feature1
+          12            ehealth-emergency                         eh_base_devtest      
+          13            ehealth-voucher                              eh_coupon_devtest
+          14            ehealth-transfer                               eh_transfer_feature1
+          15            ehealth-sms                                     eh_sms
+          16            ehealth-scheduler                            eh_scheduler
+          17            ehealth-reportpaym                         eh_base_feature1
+          18            ehealth-recipe                                  不确定
+          19            ehealth-op-report                            eh_op_report_devtest
+          20            ehealth-op-query                             eh_base_feature1
+          21            ehealth-op-datapro                          eh_base_devtest
+          22            ehealth-meetclinic                            eh_base_feature1   
+          23            ehealth-livecourse                            eh_live_course_feature1     
+          24            ehealth-gift                                               不确定
+          25            ehealth-follow-up                             eh_follow_feature1
+          26            ehealth-evaluation                            eh_evaluation
+          27            ehealth-esign                                           无
+          28            ehealth-es-base                                       无
+          29            ehealth-consult                                 eh_base_feature1
+          30            ehealth-configure                              eh_base_feature1
+          31            ehealth-callnum                                eh_base_feature1  
+          32            ehealth-billcheck                               eh_bill_check
+          33            ehealth-basic                                     eh_base_devtest
+          34            ehealth-assess                                         无
+          35            ehealth-appoint                                   不确定
+          36            ehealth-app                                         不确定
+          37            ehealth-ali-applets                            没有feature1
+
+Tomcat 项目：   
+       编号                     应用                                             对应数据表
+         1               ehealth-regulation                             eh_opbase_feature1
+         2               healthWeb-base                                  查询无结果
+         3               healthSer-base                                  eh_healthser_feature1
+         4               ehealth-micro                                    eh_micro_feature1
+         5               ehealth-business-statistics                eh_buss_stat_test
+         6               ehealth-his-manage                          eh_his_center_shishi
+         7               ehealth-weixin                                           不确定
+         8               ehealth-recipecheck                           eh_base_feature3
+         9               ehealth-pc-base                                         无结果
+        10              ehealth-openapi                                 eh_openapi_devtest
+        11              ehealth-opbase                                   eh_opbase_feature1
+        12              ehealth-monitor                                 rpcstatlog_devtest 
+        13              ehealth-histest                                   eh_his_center_devtest
+        14              ehealth-his-server                              eh_his_center_devtest 
+        15              ehealth-fileserver                               eh_file_devtest
+        16              ehealth-easy-pay                               easypay_test
+        17              ehealth-base                                      eh_base_feature1
+   
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
